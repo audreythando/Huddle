@@ -1,4 +1,4 @@
-Huddle
+HUDDLE
 
 Demo : https://audreythando.github.io/Huddle/
 
